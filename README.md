@@ -1,4 +1,4 @@
-fdg# hello_world
+# hello_world
 the begin for github team
 ## the second title
 - first we can do it
